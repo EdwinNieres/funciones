@@ -1,0 +1,47 @@
+/* Estilos desafio "pintar" */
+
+#ele1 {
+  background-color: green;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: 400;
+  font-size: 21px;
+}
+
+/* Estilos desafio "4 colores" */
+
+.contenedor {
+  display: flex;
+  flex-direction: column;
+  background-color: beige;
+  justify-content: center;
+  align-items: center;
+  width: 100wh;
+}
+
+.box {
+  width: 200px;
+  height: 200px;
+  margin: 4px;
+}
+
+#one {
+  background-color: blue;
+}
+
+#two {
+  background-color: red;
+}
+
+#three {
+  background-color: green;
+}
+
+#four {
+  background-color: yellow;
+}
+
+#key {
+  background-color: white;
+  border: 1px solid black;
+}
